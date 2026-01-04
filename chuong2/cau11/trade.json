@@ -1,0 +1,21 @@
+{
+  "giao_dich_tien": [
+    {
+      "id": "GD001",
+      "loai": "tiền",
+      "so_tien": 1000000,
+      "mo_ta": "Nạp tiền",
+      "ngay": "2025-10-15"
+    }
+  ],
+  "giao_dich_vang": [
+    {
+      "id": "GD002",
+      "loai": "vàng",
+      "so_luong": 5,
+      "don_gia": 6500000,
+      "mo_ta": "Mua vàng",
+      "ngay": "2025-10-15"
+    }
+  ]
+}

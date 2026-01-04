@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+    <student_id>1234</student_id>
+    <name>Nguyễn Van A</name>
+    <birth>2000</birth>
+    <class></class>
+    <sex></sex>
+</student>

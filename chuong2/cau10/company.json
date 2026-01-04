@@ -1,0 +1,11 @@
+{
+    "company_name": "Công ty ABC",
+    "address": "123 Đường XYZ, Quận 1, TP.HCM",
+    "employees": [
+        {"name": "A", "department": "Kế toán"},
+        {"name": "B", "department": "Nhân sự"},
+        {"name": "C", "department": "Kế toán"},
+        {"name": "D", "department": "Kỹ thuật"},
+        {"name": "E", "department": "Nhân sự"}
+    ]
+}
